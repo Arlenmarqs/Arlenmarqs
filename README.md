@@ -1,7 +1,8 @@
-# 👋 Olá, eu sou o Arlen
 
+# ⚡ Arlen Marques
+
+💻 Backend & Full Stack Developer  
 ⚡ Operador de Subestação  
-💻 Desenvolvedor Backend | Full Stack  
 
 ---
 
@@ -11,34 +12,41 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![API REST](https://img.shields.io/badge/API-REST-02569B?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
-## 🧠 Conhecimentos
+## ⚡ Diferencial
 
-- React  
-- Prisma  
-- Estruturação de APIs  
-- Versionamento com Git  
+Experiência prática com **sistemas elétricos de potência**, atuando em ambientes críticos que exigem alta responsabilidade, precisão e tomada de decisão.
+
+Aliado a isso, desenvolvimento de aplicações modernas com foco em backend e integração de sistemas.
 
 ---
 
-## ⚡ Sobre mim
+## 🧠 Sobre mim
 
-Tenho formação em Eletrotécnica (SENAI), Redes de Computadores (EEEP Juarez Távora) e Desenvolvimento Full Stack pela Digital College.
-
-Atuo como Operador de Subestação, com experiência em sistemas críticos que exigem responsabilidade, precisão e tomada de decisão.
+Formação em:
+- Técnico em Eletrotécnica (SENAI)  
+- Técnico em Redes de Computadores (EEEP Juarez Távora)  
+- Desenvolvimento Full Stack (Digital College)  
 
 ---
 
 ## 🎯 Objetivo
 
-Atuar como desenvolvedor Backend e Full Stack, com foco na criação de sistemas eficientes, seguros e escaláveis. Aberto a oportunidades na área de tecnologia.
+Atuar como desenvolvedor Backend e Full Stack, criando sistemas eficientes, seguros e escaláveis, unindo tecnologia e energia.
+
+---
+
+## 📊 GitHub Stats
+
+![Arlen GitHub stats](https://github-readme-stats.vercel.app/api?username=Arlenmarqs&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arlenmarqs&layout=compact)
 
 ---
 
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arlen-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arlen-marques)
-
