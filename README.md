@@ -1,18 +1,20 @@
 
-# ⚡ Arlen Marques
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Arlen%20Marques&fontSize=40&fontColor=ffffff)
+
+# ⚡ Olá sou Arlen Marques
 
 💻 Backend & Full Stack Developer  
-⚡ Operador de Subestação  
+⚡ Operador de Subestação  - atualmente
 
 ---
 
 ## 🚀 Tecnologias
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![API REST](https://img.shields.io/badge/API-REST-02569B?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge)
 
 ---
 
@@ -35,15 +37,7 @@ Formação em:
 
 ## 🎯 Objetivo
 
-Atuar como desenvolvedor Backend e Full Stack, criando sistemas eficientes, seguros e escaláveis, unindo tecnologia e energia.
-
----
-
-## 📊 GitHub Stats
-
-![Arlen GitHub stats](https://github-readme-stats.vercel.app/api?username=Arlenmarqs&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arlenmarqs&layout=compact)
+Atuar como desenvolvedor Backend e Full Stack, com foco na criação de sistemas eficientes, seguros e escaláveis. Possuo conhecimentos em Front-end e estou aberto a oportunidades na área de tecnologia, aplicando minha formação Full Stack.
 
 ---
 
